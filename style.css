@@ -1,16 +1,22 @@
-@charset "UTF-8";
+/* Estilos para o index.html */
 
-body
-{
-background-color: black;
-color: red;
-font-size: 12pt;
-font-family:Arial;
+body {
+    background: linear-gradient(to bottom, white, cyan); /* Degrade com branco para ciano */
+    text-align: center; /* Centralizar todo o conteúdo */
 }
 
-h1
-{
-  color: black;
-  font-size: 20pt;
+h1, h2 {
+    font-size: 30pt;
+    color: black;
+    font-family: 'Arial Black', sans-serif; /* Estilo de fonte */
 }
-  
+
+a {
+    color: blue; /* Cor dos links */
+    text-decoration: none; /* Remover sublinhado nos links */
+}
+
+img {
+    display: block; /* Para centralizar a imagem */
+    margin: 0 auto; /* Centralizar a imagem */
+}
