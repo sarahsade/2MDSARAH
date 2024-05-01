@@ -1,0 +1,18 @@
+
+#site-titulo {
+    font-size: 24pt;
+    font-family: Arial, sans-serif;
+    color: #333; /* cor preta */
+}
+
+.par-impar {
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+.par-par {
+    font-size: 20pt;
+    font-family: Verdana, sans-serif;
+    color: blue;
+}
